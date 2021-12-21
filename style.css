@@ -1,0 +1,96 @@
+body{
+
+font-family:'Poppins', sans-serif;
+}
+
+
+h1{
+font-size:25px;
+}
+
+
+.name{
+color:Orange;
+}
+.name:hover{
+color:red;
+font-size:28px;
+
+}
+
+.half-width{
+ width:40%;
+ float:left;
+
+}
+
+.half-width img{
+width:250px;
+}
+
+.tp-banner{
+
+  background-image: url("image/20211220_185027.jpg");
+  background-size:220px;
+  background-repeat:no repeat;
+}
+
+section{
+ height:400px;
+
+}
+
+.link-button{
+
+text-decoration:none;
+background-image:linear-gradient(lightsalmon,tomato);
+color:white;
+padding:10px 20px;
+border-radius:8px;
+font-weight:700;
+
+}
+
+
+.right-half-width{
+
+width:40%;
+float:right;
+}
+.right-half-width img{
+width:250px;
+
+}
+
+.chart{
+float:left;
+pading:0px;
+margin-bottom:50px;
+}
+
+h2{
+color:blue;
+}
+
+p:hover{
+color:rgb(37, 28, 176, 1);
+}
+
+.special-case{
+
+
+
+}
+
+
+.navbar:hover {
+
+color:Orange;
+}
+
+
+
+
+
+
+
