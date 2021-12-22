@@ -56,9 +56,10 @@ font-weight:700;
 
 width:40%;
 float:right;
+
 }
 .right-half-width img{
-width:250px;
+width:200px;
 
 }
 
@@ -76,10 +77,15 @@ p:hover{
 color:rgb(37, 28, 176, 1);
 }
 
-.special-case{
+.link-button-navbar{
 
-
-
+text-decoration:none;
+background-image:radial-gradient(white,lightyellow);
+color:black;
+paddng:3px 5px;
+border-radius:3px;
+font-weight:700;
+margin-down:px;
 }
 
 
